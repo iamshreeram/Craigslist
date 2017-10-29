@@ -1,6 +1,6 @@
 # Crawl and Scrap
 
-This projects helps in crawling and scrapping the details of cheapest price for requested project. Each version of the project will include multiple vendors. Current project support only single vendor.
+This projects helps in crawling and scrapping the details of cheapest price for requested product. Each version of the project will include multiple vendors. Current project support only single vendor.
 
 ## Getting Started
 
